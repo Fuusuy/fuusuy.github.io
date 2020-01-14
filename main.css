@@ -1,0 +1,46 @@
+
+body {
+    background-color: #bababa;
+    margin-left: 10%;
+    margin-right: 20%; 
+    padding: 10px 10px 10px 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Crete Round', serif;
+}
+
+img {
+    padding: 20px 20px 20px 20pxpx;
+}
+
+#divfix {
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    z-index: 3000;
+}
+
+#go_bottom {
+    padding: 10px 10px 10px 10px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 35%;
+    height: 25%;
+}
+
+table, th, td{
+    border: 1px solid white;
+}
+
+th, td{
+    padding: 7px;
+}
+
+#check{
+    height: 25px;
+    
+}
